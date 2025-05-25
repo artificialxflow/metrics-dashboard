@@ -1,0 +1,45 @@
+{
+  "dailyMetrics": [
+    {
+      "date": "2024-05-20",
+      "visits": 1200,
+      "revenue": 5500,
+      "newUsers": 75,
+      "transactions": 150
+    },
+    {
+      "date": "2024-05-21",
+      "visits": 1350,
+      "revenue": 6200,
+      "newUsers": 82,
+      "transactions": 165
+    },
+    {
+      "date": "2024-05-22",
+      "visits": 1100,
+      "revenue": 5000,
+      "newUsers": 68,
+      "transactions": 130
+    },
+    {
+      "date": "2024-05-23",
+      "visits": 1500,
+      "revenue": 7000,
+      "newUsers": 95,
+      "transactions": 180
+    },
+    {
+      "date": "2024-05-24",
+      "visits": 1400,
+      "revenue": 6500,
+      "newUsers": 88,
+      "transactions": 170
+    }
+  ],
+  "totalMetrics": {
+    "visits": 0,
+    "revenue": 0,
+    "newUsers": 0,
+    "transactions": 0
+  }
+} 
